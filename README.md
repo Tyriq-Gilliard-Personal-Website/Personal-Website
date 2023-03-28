@@ -1,4 +1,4 @@
-# Personal-Website
+# My Personal Website
 
 In this project, I am working on creating a functional website that implements a 'Home' page, an 'About' page, and a 'Portfolio' page as a tool to not
 only highlight key information about myself, but to give my "employer" a good idea of the level of skill I have with the fullstack development.
