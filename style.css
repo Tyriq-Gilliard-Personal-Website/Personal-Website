@@ -5,7 +5,6 @@ body {
 }
 
 header {
-    background-color: aquamarine;
     padding-bottom: 16px;
     padding-left: 32px;
     padding-right: 32px;
@@ -25,14 +24,20 @@ footer {
 }
 
 .headerTitle {
-    background-color: rgb(117, 117, 255);
-    font-family: BigNoodleTitling;
-    font-size: 35px;
+    font-family: Bebas;
+    font-size: 40px;
+
+}
+
+.navHome,.navAbout,.navPortfolio {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 
 }
 
 .headerLinks {
-    background-color: rgb(255, 95, 95);
     font-family: Bebas;
     float: right;
 }
