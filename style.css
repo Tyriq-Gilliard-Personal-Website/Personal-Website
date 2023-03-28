@@ -54,7 +54,7 @@ footer {
 .secondheadText {
     display: inline-block;
     font-size: 15px;
-    margin-left: 160px;
+    margin-left: 20%;
     margin-right: 20px;
 }
 
@@ -63,7 +63,7 @@ footer {
     font-family: Bebas;
     float: right;
     margin-top: 28px;
-    margin-right: 260px
+    margin-right: 25%
 }
 
 .quoteText {
