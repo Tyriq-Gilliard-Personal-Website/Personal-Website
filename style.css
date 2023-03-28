@@ -1,3 +1,17 @@
-main {
+body {
     background-image: url("Photos/Money-Background.jpg");
+    background-position: center top;
+    background-size: 2000px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+    color: white;
+  }
+
+.socialLinks {
+    width: 50px;
+
 }
