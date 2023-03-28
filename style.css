@@ -17,7 +17,16 @@ footer {
 }
 
 .headerTitle {
+    background-color: rgb(117, 117, 255);
+    display:inline-block;
     font-family: BigNoodleTitling;
     font-size: 50px;
 
 }
+
+.headerLinks {
+    background-color: rgb(255, 95, 95);
+    display: inline-block;
+    font-family: Programme;
+}
+
