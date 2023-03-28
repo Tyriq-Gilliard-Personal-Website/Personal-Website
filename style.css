@@ -4,6 +4,20 @@ body {
     background-size: 2000px;
 }
 
+header {
+    background-attachment: scroll;
+    background-color: aquamarine;
+    display: block;
+    font-size: 50px;
+    position: fixed;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 16px;
+    right: 0px;
+    left: 0px;
+
+}
 footer {
     position: absolute;
     bottom: 0;
@@ -27,6 +41,7 @@ footer {
 .headerLinks {
     background-color: rgb(255, 95, 95);
     display: inline-block;
-    font-family: Programme;
+    font-family: Bebas;
+    float: right;
 }
 
