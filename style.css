@@ -1,7 +1,7 @@
 body {
     background-image: url("Photos/Money-Background.jpg");
     background-position: center top;
-    background-size: 1400px;
+    background-size: 1600px;
 }
 
 header {
@@ -37,6 +37,7 @@ footer {
 .headerLinks {
     font-family: Bebas;
     float: right;
+    text-decoration-line: none;
 }
 
 .mainheadText {
@@ -62,7 +63,7 @@ footer {
     font-family: Bebas;
     float: right;
     margin-top: 28px;
-    margin-right: 240px
+    margin-right: 260px
 }
 
 .quoteText {
@@ -72,8 +73,15 @@ footer {
 
 }
 
+.instagramLink,.twitterLink,.linkedinLink {
+    display: inline-block;
+
+}
+
 .socialLinks {
+    display: block;
     width: 50px;
+    margin: 10px;
 
 }
 
