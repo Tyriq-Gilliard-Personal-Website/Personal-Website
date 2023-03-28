@@ -1,7 +1,7 @@
 body {
     background-image: url("Photos/Money-Background.jpg");
     background-position: center top;
-    background-size: 2000px;
+    background-size: 1400px;
 }
 
 header {
@@ -18,10 +18,7 @@ footer {
     color: white;
   }
 
-.socialLinks {
-    width: 50px;
 
-}
 
 .headerTitle {
     font-family: Bebas;
@@ -44,12 +41,41 @@ footer {
 
 .mainheadText {
     text-align: center;
+    font-family: Bebas;
+    font-size: 40px;
+    margin: 0px;
+}
+
+.secondLine {
+    margin-bottom: 0px;
+}
+
+.secondheadText {
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 160px;
+    margin-right: 20px;
+}
+
+.goButton {
+    display: inline-block;
+    font-family: Bebas;
+    float: right;
+    margin-top: 28px;
+    margin-right: 240px
 }
 
 .quoteText {
     font-size: 20px;
     text-align: center;
-    
+
 
 }
+
+.socialLinks {
+    width: 50px;
+
+}
+
+
 
