@@ -95,6 +95,17 @@ footer {
     left: 0px;
 }
 
+h2, h4 {
+    font-family: Programme;
+    text-align: center;
+}
 
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to left, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.75), rgba(255, 255, 255, 0));
+}
 
-
+.figure-caption {
+    color: rgb(0, 0, 0);
+}
