@@ -106,6 +106,13 @@ hr {
     background-image: linear-gradient(to left, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.75), rgba(255, 255, 255, 0));
 }
 
+.img-fluid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
 .figure-caption {
     color: rgb(0, 0, 0);
 }
