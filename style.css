@@ -95,7 +95,7 @@ footer {
     left: 0px;
 }
 
-h2, h4 {
+h2, h4, p {
     font-family: Programme;
     text-align: center;
 }
@@ -106,13 +106,48 @@ hr {
     background-image: linear-gradient(to left, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.75), rgba(255, 255, 255, 0));
 }
 
+h1 {
+    font-family: Programme;
+    font-style: italic;
+    text-align: center;
+}
+
 .img-fluid {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: auto;
     
 }
 
 .figure-caption {
     color: rgb(0, 0, 0);
+}
+
+p {
+    width: 50%;
+    font-size: 20px;
+    font-family: Programme;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img, video, iframe {
+    width: 50%;
+    margin: auto;
+    display: block;
+}
+
+video {
+    width: 50%;
+}
+
+.aboutPhotos {
+    width: 50%;
+}
+
+.information-container {
+    display: block;
+    background-color: rgb(255, 255, 255);
+    padding: 1%;
 }
