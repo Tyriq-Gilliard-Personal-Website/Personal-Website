@@ -133,6 +133,7 @@ p {
     font-family: Programme;
     margin-left: auto;
     margin-right: auto;
+    color: black;
 }
 
 img, video, iframe {
@@ -143,6 +144,7 @@ img, video, iframe {
 }
 
 iframe {
+    border: 0;
 }
 
 video {
@@ -155,6 +157,7 @@ video {
 
 .information-container {
     display: block;
-    background:linear-gradient(to right, #BF953F, #FCF6BA, #B38728, #FBF5B7, #AA771C);
+    background-color: white;
+    /* background:linear-gradient(to right, #BF953F, #FCF6BA, #B38728, #FBF5B7, #AA771C);*/
     padding: 1%;
 }
