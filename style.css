@@ -1,3 +1,7 @@
+a {
+    color: inherit
+}
+
 body, html {
     background-image: url("Photos/Money-Background.jpg");
     background-position: center;
