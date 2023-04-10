@@ -33,7 +33,7 @@ footer {
 
 }
 
-.navHome,.navAbout,.navPortfolio {
+.navHome,.navAbout,.navPortfolio,.navContact {
     display: inline-block;
     margin-top: 20px;
     margin-left: 20px;
